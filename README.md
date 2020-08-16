@@ -2,9 +2,9 @@
 
 ## I'm a student and developer!
 - 🔭 I’m currently working on a Personal Project.
-- 🌱 I’m currently learning everything about laravel eco system 🤣
+- 🌱 I’m currently learning everything about laravel eco system and Vue js 😍
 - 🥅 2020 Goals: Learn to code better way
-- ⚡ Fun fact: I love to watch movies/web series and music
+- ⚡ Fun fact: I love to watch movies/web series and travel new places
 
 ### Connect with me:
 
