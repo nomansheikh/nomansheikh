@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nomansheikh&&show_icons=true&count_private=true&theme=github_dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomansheikh&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomansheikh&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomansheikh&layout=compact&theme=github_dark"/>
 
 ##  Programming Languages
 
