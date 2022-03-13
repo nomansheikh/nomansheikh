@@ -1,44 +1,69 @@
-### Hi there, I'm Noman 👋
+## About Me:
+- 🔭 I’m currently working as a Freelance Software Engineer
+- 👀  I’m interested in  [Kotlin](https://www.kotlinlang.org)
+- 🌱 Currently i'm learning about Data Structures and Algorithms
+- 📑 I’m a final year CSE undergraduate at SAIC
 
-## I'm a student and developer!
-- 🔭 I’m currently working on a Personal Project.
-- 🌱 I’m currently learning everything about laravel eco system and Vue js 😍
-- 🥅 2020 Goals: Learn to code better way
-- ⚡ Fun fact: I love to watch movies/web series and travel new places
+##  Github Stats
 
-### Connect with me:
+<img src="https://github-readme-stats.vercel.app/api?username=nomansheikh&&show_icons=true&count_private=true&theme=github_dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomansheikh&theme=tokyonight"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomansheikh&layout=compact&theme=github_dark"/>|
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+##  Programming Languages
 
-<br />
+<p>
 
-### Languages and Tools:
+<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+<img alt="PHP" src="https://img.shields.io/badge/PHP%20-%232370ED.svg?logo=php&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-%2300599C.svg?logo=Java&logoColor=white">
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-af27eb.svg?logo=kotlin&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-000.svg?logo=mysql&logoColor=white">
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</p>
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+##  Frameworks and Libraries
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<p>
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="laravel" src="https://img.shields.io/badge/Laravel-ff2d20.svg?logo=laravel&logoColor=white">
+<img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6db33f.svg?logo=spring&logoColor=white">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
+<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-38bdf8.svg?logo=tailwindcss&logoColor=white">
+<img alt="Vue" src="https://img.shields.io/badge/VueJS-41B883.svg?logo=vue.js&logoColor=white">
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</p>
 
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+##  Operating Systems
 
-<img align="left" alt="Vue JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<p>
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?logo=ubuntu&logoColor=white">
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+</p>
 
+##  Databases and Cloud hosting
 
-<br />
-<br />
+<p>
+<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white">
+<img alt="Digitalocean" src="https://img.shields.io/badge/Digital_Ocean-0069ff.svg?logo=digitalocean&logoColor=white">
+<img alt="GoogleCloud" src="https://img.shields.io/badge/Google_Cloud-399a93.svg?logo=googlecloud&logoColor=white">
 
-<img align="left" alt="Noman Sheikh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nomansheikh0&show_icons=true&hide_border=true" />
+</p>
 
-[twitter]: https://twitter.com/Pin3T4ee
-[instagram]: https://instagram.com/nomansheikh000
-[linkedin]: https://linkedin.com/in/noman-sheikh
+##  Software and Tools
+
+<p>
+
+<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<img alt="PHPStrom" src="https://img.shields.io/badge/PHPStrom-143?logo=phpstorm&logoColor=white&color=b345f1&labelColor=b345f1">
+<img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white">
+<img alt="Android studio" src="https://img.shields.io/badge/Android_Studio-3ddc84.svg?logo=android-studio&logoColor=white">
+
+</p>
