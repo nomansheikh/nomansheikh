@@ -34,6 +34,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
 <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-38bdf8.svg?logo=tailwindcss&logoColor=white">
 <img alt="Vue" src="https://img.shields.io/badge/VueJS-41B883.svg?logo=vue.js&logoColor=white">
+<img alt="Svelte" src="https://img.shields.io/badge/Svelte-ff3e00.svg?logo=svelte&logoColor=white">
 <img alt="Vue" src="https://img.shields.io/badge/TypeScript-3178c6.svg?logo=typescript&logoColor=white">
 
 </p>
