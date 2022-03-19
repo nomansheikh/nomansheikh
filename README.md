@@ -1,8 +1,8 @@
 ## About Me:
-- 🔭 I’m currently working as a Freelance Software Engineer
-- 👀  I’m interested in  [Kotlin](https://www.kotlinlang.org)
-- 🌱 Currently i'm learning about Data Structures and Algorithms
-- 📑 I’m a final year CSE undergraduate at SAIC
+🔭 I’m currently working as a Freelance Software Engineer
+👀  I’m interested in  [Kotlin](https://www.kotlinlang.org)
+🌱 Currently i'm learning about Data Structures and Algorithms
+📑 I’m a final year CSE undergraduate at SAIC
 
 ##  Github Stats
 
