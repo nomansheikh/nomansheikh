@@ -2,7 +2,6 @@
 🔭 I’m currently working as a Freelance Software Engineer <br />
 👀 I’m interested in  [Kotlin](https://www.kotlinlang.org) <br />
 🌱 Currently i'm learning about Data Structures and Algorithms <br />
-📑 I’m a final year CSE undergraduate at SAIC <br />
 
 ##  Github Stats
 
