@@ -41,7 +41,7 @@
 ##  Operating Systems
 
 <p>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?logo=ubuntu&logoColor=white">
+<img alt="MacOS" src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
 
 </p>
